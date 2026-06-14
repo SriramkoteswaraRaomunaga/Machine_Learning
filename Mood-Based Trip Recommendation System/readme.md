@@ -142,48 +142,6 @@ Travel Mood: Relaxation
 
 ---
 
-## 📂 Project Structure
-
-Mood-Based-Trip-Recommender/
-
-├── data/
-
-│ ├── emotion_dataset.csv
-
-│ └── destinations.csv
-
-│
-
-├── notebook/
-
-│ └── trip.ipynb
-
-│
-
-├── models/
-
-│ ├── emotion_model.pkl
-
-│ └── tfidf.pkl
-
-│
-
-├── images/
-
-│ ├── workflow.png
-
-│ └── output.png
-
-│
-
-├── requirements.txt
-
-│
-
-└── README.md
-
----
-
 ## 🔮 Future Enhancements
 
 - Streamlit Web Application

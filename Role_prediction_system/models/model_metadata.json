@@ -1,0 +1,402 @@
+{
+    "accuracy": 0.9575,
+    "classes": [
+        "Cloud Architect / DevOps",
+        "Data Analyst",
+        "Data Scientist",
+        "Database Administrator (DBA)",
+        "Machine Learning Engineer",
+        "NLP Engineer",
+        "Product Manager",
+        "Software Engineer (Full-Stack)"
+    ],
+    "skills": [
+        "Python",
+        "Java",
+        "C++",
+        "SQL",
+        "HTML_CSS",
+        "JavaScript",
+        "Go",
+        "Rust",
+        "React",
+        "Node_JS",
+        "TypeScript",
+        "Next_JS",
+        "Power_BI",
+        "Tableau",
+        "Excel",
+        "MySQL",
+        "MongoDB",
+        "PostgreSQL",
+        "Redis",
+        "Cassandra",
+        "Scikit_learn",
+        "Regression",
+        "Classification",
+        "Clustering",
+        "TensorFlow",
+        "PyTorch",
+        "Keras",
+        "CNNs",
+        "RNNs",
+        "BERT",
+        "GPT",
+        "NLTK",
+        "Spacy",
+        "Transformers",
+        "AWS",
+        "Azure",
+        "GCP",
+        "Docker",
+        "Kubernetes",
+        "Git",
+        "Linux",
+        "Agile",
+        "REST_APIs",
+        "Communication",
+        "Teamwork",
+        "Problem_Solving",
+        "Leadership",
+        "Presentation"
+    ],
+    "feature_importance": [
+        {
+            "Skill": "Scikit_learn",
+            "Importance": 0.04241317404384931
+        },
+        {
+            "Skill": "Cassandra",
+            "Importance": 0.03819847914201114
+        },
+        {
+            "Skill": "MySQL",
+            "Importance": 0.03348925014300508
+        },
+        {
+            "Skill": "Tableau",
+            "Importance": 0.03229434208479039
+        },
+        {
+            "Skill": "Classification",
+            "Importance": 0.03199138680569351
+        },
+        {
+            "Skill": "Excel",
+            "Importance": 0.03082738569078353
+        },
+        {
+            "Skill": "Docker",
+            "Importance": 0.030457383718710106
+        },
+        {
+            "Skill": "HTML_CSS",
+            "Importance": 0.02957020080684263
+        },
+        {
+            "Skill": "PostgreSQL",
+            "Importance": 0.029439103605061898
+        },
+        {
+            "Skill": "Kubernetes",
+            "Importance": 0.028021077590726976
+        },
+        {
+            "Skill": "MongoDB",
+            "Importance": 0.027228336066059095
+        },
+        {
+            "Skill": "PyTorch",
+            "Importance": 0.02638201490712841
+        },
+        {
+            "Skill": "RNNs",
+            "Importance": 0.02576584443355363
+        },
+        {
+            "Skill": "Next_JS",
+            "Importance": 0.024825128569084233
+        },
+        {
+            "Skill": "C++",
+            "Importance": 0.02465077903143929
+        },
+        {
+            "Skill": "JavaScript",
+            "Importance": 0.024510774641516155
+        },
+        {
+            "Skill": "Clustering",
+            "Importance": 0.023814166433225002
+        },
+        {
+            "Skill": "Regression",
+            "Importance": 0.022914723225608644
+        },
+        {
+            "Skill": "NLTK",
+            "Importance": 0.022715952223552303
+        },
+        {
+            "Skill": "Linux",
+            "Importance": 0.022434265020904464
+        },
+        {
+            "Skill": "Azure",
+            "Importance": 0.021673735216050358
+        },
+        {
+            "Skill": "CNNs",
+            "Importance": 0.021407725695420633
+        },
+        {
+            "Skill": "Power_BI",
+            "Importance": 0.020750275059428586
+        },
+        {
+            "Skill": "React",
+            "Importance": 0.019327116232242435
+        },
+        {
+            "Skill": "TensorFlow",
+            "Importance": 0.019020325443397035
+        },
+        {
+            "Skill": "Go",
+            "Importance": 0.018960581581283043
+        },
+        {
+            "Skill": "TypeScript",
+            "Importance": 0.01892892797755312
+        },
+        {
+            "Skill": "Java",
+            "Importance": 0.018310452063276975
+        },
+        {
+            "Skill": "Agile",
+            "Importance": 0.017926160027258314
+        },
+        {
+            "Skill": "AWS",
+            "Importance": 0.01780277154168932
+        },
+        {
+            "Skill": "BERT",
+            "Importance": 0.017543960884057307
+        },
+        {
+            "Skill": "GPT",
+            "Importance": 0.01745300252879659
+        },
+        {
+            "Skill": "GCP",
+            "Importance": 0.01737041714757995
+        },
+        {
+            "Skill": "Redis",
+            "Importance": 0.01729548447530722
+        },
+        {
+            "Skill": "Python",
+            "Importance": 0.016361880472756572
+        },
+        {
+            "Skill": "Node_JS",
+            "Importance": 0.015046880931534258
+        },
+        {
+            "Skill": "Leadership",
+            "Importance": 0.014896098203802478
+        },
+        {
+            "Skill": "Presentation",
+            "Importance": 0.01407638964586134
+        },
+        {
+            "Skill": "Transformers",
+            "Importance": 0.013573558994754473
+        },
+        {
+            "Skill": "REST_APIs",
+            "Importance": 0.013128517431361
+        },
+        {
+            "Skill": "Git",
+            "Importance": 0.012903215667126676
+        },
+        {
+            "Skill": "SQL",
+            "Importance": 0.011384850141061104
+        },
+        {
+            "Skill": "Keras",
+            "Importance": 0.010973015251163445
+        },
+        {
+            "Skill": "Rust",
+            "Importance": 0.01026553070809396
+        },
+        {
+            "Skill": "Spacy",
+            "Importance": 0.009816477974175059
+        },
+        {
+            "Skill": "Communication",
+            "Importance": 0.007786646654701257
+        },
+        {
+            "Skill": "Problem_Solving",
+            "Importance": 0.007303413266784471
+        },
+        {
+            "Skill": "Teamwork",
+            "Importance": 0.006768820599937211
+        }
+    ],
+    "confusion_matrix": [
+        [
+            48,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            2
+        ],
+        [
+            0,
+            49,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        [
+            0,
+            0,
+            50,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        [
+            2,
+            0,
+            0,
+            48,
+            0,
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            0,
+            1,
+            0,
+            47,
+            2,
+            0,
+            0
+        ],
+        [
+            0,
+            0,
+            2,
+            0,
+            1,
+            47,
+            0,
+            0
+        ],
+        [
+            0,
+            5,
+            0,
+            0,
+            0,
+            0,
+            45,
+            0
+        ],
+        [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            49
+        ]
+    ],
+    "classification_report": {
+        "Cloud Architect / DevOps": {
+            "precision": 0.9411764705882353,
+            "recall": 0.96,
+            "f1-score": 0.9504950495049505,
+            "support": 50.0
+        },
+        "Data Analyst": {
+            "precision": 0.9074074074074074,
+            "recall": 0.98,
+            "f1-score": 0.9423076923076923,
+            "support": 50.0
+        },
+        "Data Scientist": {
+            "precision": 0.9433962264150944,
+            "recall": 1.0,
+            "f1-score": 0.970873786407767,
+            "support": 50.0
+        },
+        "Database Administrator (DBA)": {
+            "precision": 1.0,
+            "recall": 0.96,
+            "f1-score": 0.9795918367346939,
+            "support": 50.0
+        },
+        "Machine Learning Engineer": {
+            "precision": 0.9791666666666666,
+            "recall": 0.94,
+            "f1-score": 0.9591836734693877,
+            "support": 50.0
+        },
+        "NLP Engineer": {
+            "precision": 0.9591836734693877,
+            "recall": 0.94,
+            "f1-score": 0.9494949494949495,
+            "support": 50.0
+        },
+        "Product Manager": {
+            "precision": 0.9782608695652174,
+            "recall": 0.9,
+            "f1-score": 0.9375,
+            "support": 50.0
+        },
+        "Software Engineer (Full-Stack)": {
+            "precision": 0.9607843137254902,
+            "recall": 0.98,
+            "f1-score": 0.9702970297029703,
+            "support": 50.0
+        },
+        "accuracy": 0.9575,
+        "macro avg": {
+            "precision": 0.9586719534796874,
+            "recall": 0.9575,
+            "f1-score": 0.9574680022028014,
+            "support": 400.0
+        },
+        "weighted avg": {
+            "precision": 0.9586719534796874,
+            "recall": 0.9575,
+            "f1-score": 0.9574680022028014,
+            "support": 400.0
+        }
+    }
+}
